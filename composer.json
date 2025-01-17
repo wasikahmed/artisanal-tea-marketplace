@@ -1,0 +1,29 @@
+{
+    "name": "wasik/artisanal-tea-marketplace",
+    "description": "A PHP-based artisanal tea marketplace with MVC structure.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M R Wasik Ahmed Apon",
+            "email": "22-47698-2@student.aiub.edu"
+        }, 
+        {
+            "name": "Sumaya Islam",
+            "email": "22-47709-2@student.aiub.edu"
+        },
+        {
+            "name": "Tanvir Alam Tanim",
+            "email": "22-46534-1@student.aiub.edu"
+        },
+        {
+            "name": "Mst. Nadiya Noor",
+            "email": "22-46454-1@student.aiub.edu"
+        }
+    ],
+    "require": {}
+}
