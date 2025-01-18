@@ -25,5 +25,7 @@
             "email": "22-46454-1@student.aiub.edu"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
 }

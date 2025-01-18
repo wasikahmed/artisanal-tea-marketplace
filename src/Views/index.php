@@ -8,5 +8,11 @@
 </head>
 <body>
     <h1>Welcome to Artisanal Tea Marketplace!</h1>
+
+    <ul>
+        <?php foreach ($journals as $journal) : ?>
+            <li><?= $journal->name ?> (<?= $journal->publishYear ?>)</li>
+        <?php endforeach; ?>
+    </ul>
 </body>
 </html>
